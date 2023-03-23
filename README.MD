@@ -170,3 +170,17 @@
     - For NFT solutions, blockchain platforms that support NFT standards such as *[ERC-721](https://eips.ethereum.org/EIPS/eip-721) and [ERC-1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)* on Ethereum, or other blockchain platforms such as *Binance Smart Chain, Flow, or Tezos* are appropriate because they provide a secure and decentralized environment for creating and managing digital assets. NFTs are unique and indivisible digital assets that are created and managed on a blockchain network. By using a blockchain platform that supports NFT standards, creators can ensure that their NFTs are secure and verifiable, and can be easily transferred or traded on a marketplace. Additionally, tools and platforms such as *OpenSea, Rarible, or SuperRare* provide a marketplace for buying and selling NFTs, which can help creators monetize their digital assets and enable collectors to acquire unique and valuable digital collectibles.
 
 Overall, these technologies are appropriate for DeFi and NFT solutions because they provide a decentralized and programmable environment for creating and managing financial transactions and digital assets, while ensuring security, transparency, and efficiency.
+
+Addendum:
+
+    - https://interstellar.com/about/
+    - https://r3.com/company/
+    - https://medium.com/interstellar/announcing-interstellar-24ff0bc2d89c
+    - https://rivercountry.newschannelnebraska.com/story/48556961/interstellar-connecting-global-users-and-digital-assets-building-a-fullscenario-blockchain-ecological-cluster
+    - https://interstellar.com/what-we-do/
+    - https://hub.packtpub.com/interstellar-is-developing-slingshot-a-new-rust-based-blockchain-architecture-to-support-zero-knowledge-smart-contracts-and-more/0
+    - https://craft.co/lightyear/competitors
+    - https://www.valuecoders.com/blog/technology-and-apps/hyperledger-fabric-vs-stellar-which-is-the-best-blockchain-solution/#:~:text=What%20is%20the%20difference%20between,a%20lower%20level%20of%20decentralization.
+    - https://www.cryptoninjas.net/2018/09/10/lightyear-the-company-behind-stellars-ibm-blockchain-partnership-acquires-chain/
+    - https://rivercountry.newschannelnebraska.com/story/48556961/interstellar-connecting-global-users-and-digital-assets-building-a-fullscenario-blockchain-ecological-cluster
+    - https://eips.ethereum.org/EIPS/eip-721
