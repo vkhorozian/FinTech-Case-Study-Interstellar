@@ -9,13 +9,15 @@
     - **`Interstellar`** is a privately held company that has not yet considered going public.
 
 * Who are the founders of the company?
-    - According to [**`Interstellar's`**](https://interstellar.com/about/) main site, Jed McCaleb is the founder of **`Interstellar`**
+
+    - According to [**`Interstellar's`**](https://interstellar.com/about/) main site, Jed McCaleb is the founder of **`Interstellar`**   ![Jed Photo](./assets/jed.jpg)
+
     - Jed is also the co-founder and Chief Architect of the Stellar Development Foundation (SDF), an open network that connects the world’s financial infrastructure.
-    - The current CEO is Mike Kennedy. He was formerly the founder and CEO of Zelle, the largest person to person payments network in the United States. He is on the Board of American Savings Bank, and was formerly President of OFX North America, Head of payments at Wells Fargo and worked at McKinsey & Company.
+    - The current CEO is Mike Kennedy. He was formerly the founder and CEO of Zelle, the largest person to person payments network in the United States. He is on the Board of American Savings Bank, and was formerly President of OFX North America, Head of payments at Wells Fargo and worked at McKinsey & Company. ![Jed Photo](./assets/mike.jpg)
 
 * How did the idea for the company (or project) come about?
     - Lightyear.io, a for-profit entity of Stellar, launched in May 2017 as the commercial arm of the company.
-    - In September 2018, Lightyear Corporation acquired Chain, Inc and the combined company was named **`Interstellar`**.
+    - In September 2018, Lightyear Corporation acquired Chain, Inc and the combined company was named **`Interstellar`**. ![Jed Photo](./assets/teamshot.jpg)
 
 * How is the company funded? How much funding have they received?
     - In September 2017, Stellar announced a benefits program, part of its Stellar Partnership Grant Program, which would award partners up to $2 million worth of Lumens for project development.
@@ -23,17 +25,17 @@
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? 
 
-    -**`Interstellar`** is a technology company targeting the $2 trillion international payments industry, with a current focus on delivering faster, cheaper and more reliable cross-border payments.
-    
+    -**`Interstellar`** is a technology company targeting the $2 trillion international payments industry, with a current focus on delivering faster, cheaper and more reliable cross-border payments. ![Jed Photo](./assets/paychart.jpg)
+
     - **`Interstellar`** seek's to unlock the world’s economic potential by making money more fluid and markets more open.
 
     - On Stellar, you can create, send, and trade digital representations of all forms of value — U.S. dollars, Argentine pesos, Bitcoin, real estate, pretty much anything. It’s designed so all the world’s financial systems can freely interoperate with each other, all on a single network.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-    - **`Interstellar's`** target customers are businesses that are looking to improve their operations, increase efficiency, and reduce costs by leveraging the benefits of blockchain technology. By providing enterprise-grade blockchain solutions, Interstellar aims to be a leading provider of blockchain services for businesses across different industries.
+    - **`Interstellar's`** target customers are businesses that are looking to improve their operations, increase efficiency, and reduce costs by leveraging the benefits of blockchain technology. By providing enterprise-grade blockchain solutions, Interstellar aims to be a leading provider of blockchain services for businesses across different industries. ![Jed Photo](./assets/blockchain.webp)
 
     - **`Interstellar's`** services and applications are designed to be scalable and flexible, making them suitable for a wide range of businesses across different industries. Some of the specific industries that could benefit from Interstellar's solutions include financial services, supply chain management, healthcare, and government.
 
@@ -44,7 +46,8 @@ What solution does this company offer that their competitors do not or cannot of
 
 - **`Interstellar`** wants to enable all the organization's to be able to send and receive their money with extremely fast speed and security utilizing the stellar blockchain.
 
-- One of the key advantages that **`Interstellar`** has over its competition is its partnership with **`IBM`**. In 2018, **`Interstellar`** [acquired](https://medium.com/interstellar/announcing-interstellar-24ff0bc2d89c) the blockchain technology unit of **`Chain`**, a startup that had previously been backed by major financial institutions and was a founding member of the blockchain consortium [R3](https://r3.com/company/). As part of the acquisition, Interstellar also formed a strategic partnership with **`IBM`**, which provides Interstellar with access to **`IBM's`** extensive network of enterprise clients and its cloud infrastructure.
+- One of the key advantages that **`Interstellar`** has over its competition is its partnership with **`IBM`**. In 2018, **`Interstellar`** [acquired](https://medium.com/interstellar/announcing-interstellar-24ff0bc2d89c) the blockchain technology unit of **`Chain`**, a startup that had previously been backed by major financial institutions and was a founding member of the blockchain consortium [R3](https://r3.com/company/). As part of the acquisition, Interstellar also formed a strategic partnership with **`IBM`**, which provides Interstellar with access to **`IBM's`** extensive network of enterprise clients and its cloud infrastructure.![Jed Photo](./assets/ibm.png)
+
 
 - **`Interstellar's`** team is also made up of experienced professionals with backgrounds in finance, technology, and entrepreneurship. This expertise helps **`Interstellar`** to understand the needs of its customers and develop tailored solutions that address their specific pain points.
 
@@ -67,12 +70,15 @@ What solution does this company offer that their competitors do not or cannot of
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
     - **`Interstellar`** uses the stellar blockchain as its primary technology. **`Interstellar`** uses it as a platform for all the tools they develop to help others facilitate sending and receiving money across the world with any currency using their token XLM (Stellar Lumens). 
+    ![Jed Photo](./assets/block2.png)
+    Stackshare has no information on anything that they use for their internal side of development. It is all very hush hush due to the level of secrecy involved with many of these projects.
+
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
 
-    - **`Interstellar`** provides enterprise blockchain solutions, which involve the use of distributed ledger technology to enable secure asset transfer, digital identity management, and smart contract automation for businesses.
+    - **`Interstellar`** provides enterprise blockchain solutions, which involve the use of distributed ledger technology to enable secure asset transfer, digital identity management, and smart contract automation for businesses.![Jed Photo](./assets/assettransfer.webp)
 
     - **`Interstellar's`** focus on blockchain and its applications for enterprise use would place it squarely within the domain of FinTech and the broader ecosystem of emerging financial technologies.
 
@@ -88,7 +94,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * What has been the business impact of this company so far?
 
-    - **`Interstellar`** is still a relatively young company, having been founded in 2018, so it may be too early to say whether it has made a significant business impact in the world of blockchain and finance. However, **`Interstellar`** has partnerships with a number of well-known companies and organizations, including IBM, Stellar, and Franklin Templeton, which suggests that it is making progress in establishing itself as a reputable player in the space.
+    - **`Interstellar`** is still a relatively young company, having been founded in 2018, so it may be too early to say whether it has made a significant business impact in the world of blockchain and finance. However, **`Interstellar`** has partnerships with a number of well-known companies and organizations, including IBM, Stellar, and Franklin Templeton, which suggests that it is making progress in establishing itself as a reputable player in the space. ![Jed Photo](./assets/frank.webp)
 
     - **`Interstellar's`** primary focus is on providing enterprise blockchain solutions, which aim to make it easier and more cost-effective for businesses to transfer assets and manage their operations. By doing so, **`Interstellar`** is helping to promote the adoption of blockchain technology in the business world, which could have significant implications for the financial industry in the future.
 
@@ -112,7 +118,7 @@ What solution does this company offer that their competitors do not or cannot of
 
 * How is your company performing relative to competitors in the same domain?
 
-It is difficult to make a direct comparison between **`Interstellar`** and other competitors in the same domain, as the blockchain space is rapidly evolving and there are many different companies and projects with different focuses and objectives. However, there are some general trends and indicators that suggest how **`Interstellar`** is performing relative to other competitors in the blockchain domain.
+It is difficult to make a direct comparison between **`Interstellar`** and other competitors in the same domain, as the blockchain space is rapidly evolving and there are many different companies and projects with different focuses and objectives. However, there are some general trends and indicators that suggest how **`Interstellar`** is performing relative to other competitors in the blockchain domain. ![Jed Photo](./assets/swot.png)
 
 One of **`Interstellar's`** key advantages is its partnership with IBM, which gives it access to IBM's extensive network of enterprise clients and its cloud infrastructure. This partnership has allowed **`Interstellar`** to focus on developing enterprise blockchain solutions that are tailored to the specific needs of its clients, which is a valuable niche in the blockchain market.
 
@@ -134,7 +140,7 @@ Overall, **`Interstellar's`** focus on enterprise blockchain solutions and its s
 
 * Why do you think that offering this product or service would benefit the company?
 
-    - Offering these products or services could potentially benefit **`Interstellar`** in several ways:
+    - Offering these products or services could potentially benefit **`Interstellar`** in several ways:![Jed Photo](./assets/diversification.jpg)
 
         1. Diversification: Expanding into new areas such as DeFi or NFTs would help **`Interstellar`** diversify its offerings and potentially open up new revenue streams. By expanding beyond its current focus on enterprise blockchain solutions, **`Interstellar`** could tap into new markets and customer segments.
 
@@ -150,7 +156,7 @@ Overall, **`Interstellar's`** focus on enterprise blockchain solutions and its s
 
         1. For DeFi products and services, **`Interstellar`** could potentially utilize smart contract platforms such as *Ethereum, Binance Smart Chain, or Polkadot*. These platforms allow developers to create and deploy programmable smart contracts that can automate financial transactions and create new types of financial products and services. Additionally, **`Interstellar`** could potentially utilize decentralized finance protocols such as *Aave, Uniswap, or Compound,* which provide building blocks for creating decentralized lending, borrowing, and trading platforms.
 
-        2. For NFT products and services, **`Interstellar`** could potentially utilize blockchain platforms that support NFT standards such as *[ERC-721](https://eips.ethereum.org/EIPS/eip-721) and [ERC-1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)* on Ethereum, or other blockchain platforms such as Binance Smart Chain, Flow, or Tezos. Additionally, **`Interstellar`** could utilize tools and platforms for creating and managing NFTs, such as *OpenSea, Rarible, or SuperRare*. These tools allow creators to mint and sell NFTs, as well as provide marketplaces for buying and selling NFTs.
+        2. For NFT products and services, **`Interstellar`** could potentially utilize blockchain platforms that support NFT standards such as *[ERC-721](https://eips.ethereum.org/EIPS/eip-721) and [ERC-1155](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)* on Ethereum, or other blockchain platforms such as Binance Smart Chain, Flow, or Tezos. Additionally, **`Interstellar`** could utilize tools and platforms for creating and managing NFTs, such as *OpenSea, Rarible, or SuperRare*. These tools allow creators to mint and sell NFTs, as well as provide marketplaces for buying and selling NFTs. ![Jed Photo](./assets/defi1.jpg)
 
     - Overall, the technologies used for DeFi and NFTs are constantly evolving and expanding, so **`Interstellar`** would need to stay up-to-date on the latest developments in the blockchain industry to be able to provide cutting-edge products and services.
 
